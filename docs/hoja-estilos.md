@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Titulo de la Prueba  
 Texto sobre la prueba  
 *más texto pero en cursiva*  
