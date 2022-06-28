@@ -9,14 +9,14 @@ const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://github.com',
-  baseUrl: '/DocusaurusPrueba',
+  baseUrl: '/DocusaurusPrueba/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'AlexTesouroCMZ', // Usually your GitHub org/user name.
   projectName: 'DocusaurusPrueba', // Usually your repo name.
   deploymentBranch: "gh-pages",
-
+  
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
