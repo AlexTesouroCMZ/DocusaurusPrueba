@@ -47,4 +47,3 @@ Lista de checks:
 Se pueden añadir emojis: :x: :heavy_check_mark: :fire: :smile: :+1:  
   
 Se puede cambiar el tamaño de la imagen tras especificar el enlace:  
-![CMZ-Logo]([https://www.cmz.com/uploads/aaff_cmz_claim_cmyk.jpg](./images/bs.png) =400x200)
