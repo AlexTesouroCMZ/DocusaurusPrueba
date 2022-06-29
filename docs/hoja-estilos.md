@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+id: greeting
+title: Titulo de la Prueba
 ---
 
 # Titulo de la Prueba  

@@ -128,3 +128,31 @@ const config = {
 };
 
 module.exports = config;
+module.exports = {
+  presets: [
+    [
+      '@docusaurus/preset-classic',
+      {
+        docs: {
+          // id: 'product', // omitted => default instance
+          path: 'product',
+          routeBasePath: 'product',
+          sidebarPath: require.resolve('./sidebarsProduct.js'),
+          // ... other options
+        },
+      },
+    ],
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'community',
+        path: 'community',
+        routeBasePath: 'community',
+        sidebarPath: require.resolve('./sidebarsCommunity.js'),
+        // ... other options
+      },
+    ],
+  ],
+};
