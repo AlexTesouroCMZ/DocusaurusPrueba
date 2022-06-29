@@ -17,7 +17,7 @@ Para nuestros repositorios seguiremos la metodología de tener un branch princip
 Si durante el testeo de la rama Dev detectamos algún problema se deberá trabajar en su rama correspondiente, a menos que sea un error pequeño y se pueda solucionar de forma ágil, en estos casos lo haremos sobre Dev a modo de Hotfix.
 
 
-[<img src="./images/bs.png" width="550" height="650"/>](../static/img/bs.png)
+[<img src="./images/bs.png" width="550" height="650"/>](/img/bs.png)
 
 
 En este ejemplo hemos representado dos branches de Features: Features A y Features B. También hemos hecho uso de los hotfixes para representar como se realizarían en nuestra estrategia.
